@@ -3,7 +3,7 @@
 - Copy .env.example to .env
 - Fill .env with your own values
 
-# Install dependencies
+# Install dependencies
 
 ```
 npm install
